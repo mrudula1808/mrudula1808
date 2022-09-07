@@ -1,6 +1,6 @@
 ### About Me:  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<h1>Hello</h1>
 </div>  
   
 
